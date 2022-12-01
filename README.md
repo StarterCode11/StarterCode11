@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<a href="https://dainty-biscochitos-cc87d6.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/pratyush.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://dainty-biscochitos-cc87d6.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/pratyush.vercel.app-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://linkedin.com/in/pratyush-kumar-467b81218"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pratyush%20kumar-blue?style=flat-square&logo=linkedin"></a>
 
