@@ -72,13 +72,13 @@
 
 <p align="center">
 
-<a href="https://dainty-biscochitos-cc87d6.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://dainty-biscochitos-cc87d6.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/pratyush.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://linkedin.com/in/pratyush-kumar-467b81218"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://linkedin.com/in/pratyush-kumar-467b81218"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pratyush%20kumar-blue?style=flat-square&logo=linkedin"></a>
 
 
 
-<a href="mailto:infokumarpratyush03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:infokumarpratyush03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-infokumarpratyush03@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
