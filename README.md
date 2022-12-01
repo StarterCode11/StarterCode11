@@ -46,9 +46,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/StarterCode11)
 
-<br/>
 
 <br/>
 
@@ -81,14 +79,6 @@
 <a href="mailto:infokumarpratyush03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-infokumarpratyush03@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
 
 
 
